@@ -1,3 +1,4 @@
+//Lesson 6
 public class Animal {
     String name;
     public Animal(String name) {
